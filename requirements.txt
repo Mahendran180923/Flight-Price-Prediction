@@ -1,6 +1,6 @@
 pandas
 sklearn
 seaborn
-matplotlib.
+matplotlib
 pickle
 streamlit 
